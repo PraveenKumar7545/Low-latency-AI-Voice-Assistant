@@ -5,7 +5,7 @@ huggingface-hub==0.24.6
 edge-tts
 dspy
 soundfile
-webrtcvad
+# webrtcvad
 streamlit 
 streamlit-webrtc
 python-dotenv
