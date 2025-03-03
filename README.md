@@ -51,7 +51,8 @@ This repository contains an end-to-end AI Voice Assistant pipeline. The system c
    - Sign up at [Hugging Face](https://huggingface.co/join) and obtain an API token.
    - Set up your environment variable:
      ```bash
-     export HUGGINGFACE_API_TOKEN=your_hugging_face_token  # On Windows: set HUGGINGFACE_API_TOKEN=your_hugging_face_token
+     Rename .env.example to .env
+     Assign Values to environment variables
      ```
 
 ## Usage
